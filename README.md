@@ -18,8 +18,7 @@ This notebook provides a clear, step-by-step Python implementation of the linear
    - `find_min_sep(G, X, Y, I, R)`: linear-time construction algorithm  
    - Core routines built on BFS and set intersections  
 3. **Examples & Benchmarks**  
-   - Sample graphs illustrating separator placement  
-   - Timing experiments to reproduce the \(O(n + m)\) performance  
+   - Sample graphs illustrating separator placement
 
 ---  
 **Primary Reference**  
